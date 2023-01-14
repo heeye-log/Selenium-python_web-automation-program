@@ -1,3 +1,5 @@
+# 테스트 블로그 안부글 댓글 달기.
+
 from selenium import webdriver
 import time
 driver = webdriver.Chrome("chromedriver")
