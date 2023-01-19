@@ -1,4 +1,4 @@
-### Selenium + python으로 웹 자동화 프로그램 만들기
+# Selenium + python으로 웹 자동화 프로그램 만들기
 
 ## Introduction
 - 기간 : 2023.01.09 - 2023.01.12
